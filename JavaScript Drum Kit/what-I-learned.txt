@@ -1,0 +1,12 @@
+HTML:
+<kbd> tag -> keyboard data values
+<span> tag  -> to select a particular span and then to color or any further use
+data-* attribute -> used to store custom data
+
+
+CSS:
+background: url("filename")  -> to set background image
+background-size: value;   -> to use the background img properly
+.attributeName{} -> to select a html attribute
+tagname{}  -> to select a particular tag
+letter-spacing: -> for maintaining space between letter
