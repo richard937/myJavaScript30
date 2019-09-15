@@ -1,0 +1,7 @@
+HTML:
+HTML elements can have more than one class name,
+where each class name must be separated by a space
+<div class="hand hour-hand"></div>
+
+JavaScript:
+document.querySelector -> this document method returns the first element that matches
