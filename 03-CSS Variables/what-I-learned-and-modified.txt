@@ -1,0 +1,3 @@
+In the main project there was an option to change the spacing.
+I thought to modify it to more customable. So I added padding for left right top and bottom.
+How me and other people use expand in different  photo editor apps
